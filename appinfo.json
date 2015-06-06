@@ -1,0 +1,88 @@
+{
+  "uuid": "3e74271f-271d-4311-852a-2d591bfdecae",
+  "shortName": "Timer",
+  "longName": "Timer",
+  "companyName": "petegestewitz",
+  "versionCode": 1,
+  "versionLabel": "1.2",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "APP_ICON",
+        "file": "icon.png",
+        "menuIcon": true
+      },
+      {
+        "type": "png",
+        "name": "PLUS_SIGN",
+        "file": "img/plussign.png"
+      },
+      {
+        "type": "png",
+        "name": "HALF_BLACKER",
+        "file": "img/halfblack.png"
+      },
+      {
+        "type": "png",
+        "name": "SLASH",
+        "file": "img/slash.png"
+      },
+      {
+        "type": "png",
+        "name": "ACTION_NEXT",
+        "file": "img/ActionNext.png"
+      },
+      {
+        "type": "png",
+        "name": "LOOPBACK",
+        "file": "img/Loopback.png"
+      },
+      {
+        "type": "png",
+        "name": "MENU_ICON",
+        "file": "img/menu.png"
+      },
+      {
+        "type": "png",
+        "name": "TRASHCAN_ICON",
+        "file": "img/trashcan.png"
+      },
+      {
+        "type": "png",
+        "name": "STOPWATCH_ICON",
+        "file": "img/stopwatch.png"
+      },
+      {
+        "type": "png",
+        "name": "PAUSE_ICON",
+        "file": "img/pause.png"
+      },
+      {
+        "type": "png",
+        "name": "PLAY_ICON",
+        "file": "img/play.png"
+      },
+      {
+        "type": "png",
+        "name": "TROPHY_ICON",
+        "file": "img/trophy.png"
+      },
+      {
+        "type": "png",
+        "name": "CARET_ICON",
+        "file": "img/caret.png"
+      }
+    ]
+  },
+  "targetPlatforms": [
+    "basalt"
+  ],
+  "sdkVersion": "3"
+}
